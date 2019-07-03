@@ -1,2 +1,2 @@
 # NEXTER
-![Nexter project] (../NEXTER/img/gal-1.jpeg)
+![Nexter project] (https://github.com/amreshk005/NEXTER/blob/master/img/gal-6.jpeg)
