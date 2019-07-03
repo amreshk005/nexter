@@ -13,6 +13,6 @@ you can see it on live demo on <a href="https://amreshk005.github.io/nexter.gith
 ```
 you can download repo by
 
-git pull
+git clone https://github.com/amreshk005/nexter.github.io.git
 
 ```
