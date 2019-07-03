@@ -8,11 +8,11 @@ This project uses following technologies:
 3. SCSS
 4. FLEX BOX
 
-<a href="https://amreshk005.github.io/nexter.github.io/">you can see it on live demo on</a>.
+<a href="https://amreshk005.github.io/nexter/">you can see it on live demo on</a>.
 
 ```
 you can download repo by
 
-git clone https://github.com/amreshk005/nexter.github.io.git
+git clone https://github.com/amreshk005/nexter.git
 
 ```
