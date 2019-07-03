@@ -1,2 +1,2 @@
 # NEXTER
-![Nexter project] (../NEXTER/img/gal-1.jpeg?raw=true "title)
+![Nexter project] (../NEXTER/img/gal-1.jpeg?raw=true)
